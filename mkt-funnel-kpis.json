@@ -1,0 +1,66 @@
+{
+    "properties": [
+        {
+            "id": "325243030",
+            "name": "ASF",
+            "l3m": {
+                "ranges": [
+                    {
+                        "name": "Mar25",
+                        "new_users": 471710,
+                        "total_users": 501209,
+                        "percent_new": 94.11
+                    },
+                    {
+                        "name": "Jan25",
+                        "new_users": 449115,
+                        "total_users": 484050,
+                        "percent_new": 92.78
+                    },
+                    {
+                        "name": "Feb25",
+                        "new_users": 420009,
+                        "total_users": 453159,
+                        "percent_new": 92.68
+                    }
+                ],
+                "total_new_users": 1340834
+            },
+            "fy26_q1": {
+                "sessions": 2207731,
+                "total_users": 1630736
+            }
+        },
+        {
+            "id": "325253028",
+            "name": "VCF",
+            "l3m": {
+                "ranges": [
+                    {
+                        "name": "Mar25",
+                        "new_users": 1687475,
+                        "total_users": 1894540,
+                        "percent_new": 89.07
+                    },
+                    {
+                        "name": "Jan25",
+                        "new_users": 1659786,
+                        "total_users": 1844611,
+                        "percent_new": 89.98
+                    },
+                    {
+                        "name": "Feb25",
+                        "new_users": 1546040,
+                        "total_users": 1714509,
+                        "percent_new": 90.17
+                    }
+                ],
+                "total_new_users": 4893301
+            },
+            "fy26_q1": {
+                "sessions": 6887722,
+                "total_users": 4694257
+            }
+        }
+    ]
+}
