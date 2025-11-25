@@ -16,8 +16,8 @@ from google.analytics.data_v1beta.types import (
 
 # --- CONFIGURATION ---
 PROPERTIES = [
-    {"id": "325243030", "name": "ASF"},
-    {"id": "325253028", "name": "VCF"}
+    {"id": "XXXXXXXXXX", "name": "PROPERTY ONE"},
+    {"id": "XXXXXXXXXX", "name": "PROPERTY TWO"}
 ]
 
 CREDENTIALS_PATH = "credentials.json"
